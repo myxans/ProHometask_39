@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.smiley {
+    font-size: 24px;
+}
+
+.click-count {
+    margin: 0 10px;
+}
+
+.vote-btn {
+    margin-left: auto;
+}
